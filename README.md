@@ -9,3 +9,4 @@ GANScape build with Jupyter, Python and TensorFlow using Deep Learning concept t
 
 
 
+<img width="700" src="" alt="Material Bread logo">
