@@ -9,7 +9,8 @@ GANScape build with Jupyter, Python and TensorFlow using Deep Learning concept t
 
 <div class="row">
   <img width="300" src="https://github.com/matthewbridger/Beach-image-generation/blob/main/Images/beachTest.png" alt="Beach1">
-  <img width="300" src="https://github.com/matthewbridger/Beach-image-generation/blob/main/Images/beachTest.png" alt="Beach">
+  <img width="300" src="https://github.com/matthewbridger/Beach-image-generation/blob/main/Images/mountain.png" alt="Mountain">
+  <img width="300" src="https://github.com/matthewbridger/Beach-image-generation/blob/main/Images/beach2.png" alt="Beach2">
 </div>
 
 
